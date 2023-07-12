@@ -1,0 +1,5 @@
+file_name,sentence
+test/01.wav,句子零一文字
+test/02.wav,句子零二文字
+train/03.wav,句子零三文字
+train/04.wav,句子零四文字
